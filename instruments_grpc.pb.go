@@ -4,7 +4,7 @@
 // - protoc             v3.19.1
 // source: instruments.proto
 
-package tinkoff_grpc
+package investapi
 
 import (
 	context "context"

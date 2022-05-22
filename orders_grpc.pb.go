@@ -4,7 +4,7 @@
 // - protoc             v3.19.1
 // source: orders.proto
 
-package tinkoff_grpc
+package investapi
 
 import (
 	context "context"

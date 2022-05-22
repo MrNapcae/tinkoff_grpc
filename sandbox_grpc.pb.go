@@ -4,7 +4,7 @@
 // - protoc             v3.19.1
 // source: sandbox.proto
 
-package tinkoff_grpc
+package investapi
 
 import (
 	context "context"

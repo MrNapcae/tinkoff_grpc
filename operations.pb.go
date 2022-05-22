@@ -4,7 +4,7 @@
 // 	protoc        v3.19.1
 // source: operations.proto
 
-package investapi
+package github.com/MrNapcae/tinkoff_grpc
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
